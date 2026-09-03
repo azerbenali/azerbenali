@@ -7,11 +7,6 @@ Robotics Engineer
 <p>
   <a href="mailto:azerbenali5017@gmail.com"><img src="https://img.shields.io/badge/Email-azerbenali5017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Azer Ben Ali" /></a>
   <a href="https://www.linkedin.com/in/azer-ben-ali-109853338/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-  <a href="https://www.youtube.com/@azerbenali"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel" /></a>
-  <a href="https://www.instagram.com/azer_ben_ali_x/"><img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
-  <a href="https://www.facebook.com/azer.ben.ali.363685/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" /></a>
-</p>
-
 </div>
 
 About
