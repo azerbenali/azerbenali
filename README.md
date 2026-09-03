@@ -9,7 +9,7 @@ Robotics Engineer
   <a href="https://www.linkedin.com/in/azer-ben-ali-109853338/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </div>
 
-About
+
 
 I’m Azer Ben Ali, a robotics engineer focused on building intelligent robotic systems that connect perception, planning, simulation, and real-world control. I work with ROS/ROS 2, C++, Python, computer vision, 3D mapping, autonomous navigation, and robot-manipulator motion planning.
 
