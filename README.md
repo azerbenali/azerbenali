@@ -10,8 +10,7 @@ Robotics Engineer
 </div>
 
 
-
-I’m Azer Ben Ali, a robotics engineer focused on building intelligent robotic systems that connect perception, planning, simulation, and real-world control. I work with ROS/ROS 2, C++, Python, computer vision, 3D mapping, autonomous navigation, and robot-manipulator motion planning.
+ Focused on building intelligent robotic systems that connect perception, planning, simulation, and real-world control. I work with ROS/ROS 2, C++, Python, computer vision, 3D mapping, autonomous navigation, and robot-manipulator motion planning.
 
 
 <p>
