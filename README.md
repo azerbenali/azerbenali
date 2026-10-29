@@ -1,8 +1,8 @@
-Azer Ben Ali
+
 
 <div align="center">
 
-Robotics Engineer 
+
 
 <p>
   <a href="mailto:azerbenali5017@gmail.com"><img src="https://img.shields.io/badge/Email-azerbenali5017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Azer Ben Ali" /></a>
@@ -10,7 +10,7 @@ Robotics Engineer
 </div>
 
 
- Focused on building intelligent robotic systems that connect perception, planning, simulation, and real-world control. I work with ROS/ROS 2, C++, Python, computer vision, 3D mapping, autonomous navigation, and robot-manipulator motion planning.
+ I'm working with ROS2, C++, Python, autonomous robotics, computer vision, navigation, simulation, and motion planning.
 
 
 <p>
