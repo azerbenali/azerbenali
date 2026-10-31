@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 
@@ -7,6 +6,7 @@
 <p>
   <a href="mailto:azerbenali5017@gmail.com"><img src="https://img.shields.io/badge/Email-azerbenali5017%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Azer Ben Ali" /></a>
   <a href="https://www.linkedin.com/in/azer-ben-ali-109853338/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <img src="https://komarev.com/ghpvc/?username=azerbenali&label=Profile%20views&color=22314E&style=for-the-badge" alt="Profile views" />
 </div>
 
 
@@ -63,3 +63,7 @@ Web & product prototyping
 
 
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=azerbenali&theme=github-dark-blue&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" alt="Current streak" />
+</div>
