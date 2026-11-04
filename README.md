@@ -68,5 +68,5 @@ Web & product prototyping
   <img height="180" src="https://streak-stats.demolab.com?user=azerbenali&theme=github-dark-blue&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" alt="Current streak" />
 
   <img src="https://img.shields.io/github/stars/azerbenali?style=for-the-badge&logo=github&logoColor=white&label=Total%20stars&color=F5B400" alt="Total stars" />
-  <img src="https://img.shields.io/github/followers/azerbenali?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=22314E" alt="Followers" />
+
 </div>
